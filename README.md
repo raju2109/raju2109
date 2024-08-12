@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-## My Skills
+## My Skills 🚀
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,js,html,css,java,nodejs,github,gcp)](https://skillicons.dev)
 
 
