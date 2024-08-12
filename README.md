@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,python,sql)](https://skillicons.dev)
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
