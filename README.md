@@ -1,5 +1,6 @@
 ## Hi there 👋 Welcome to My Github Profile
 
+
 <!--
 **raju2109/raju2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,python,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql,js,html,css,java,nodejs,github,gcp)](https://skillicons.dev)
+
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
